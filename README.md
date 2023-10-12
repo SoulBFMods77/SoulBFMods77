@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm SoulBFMods77
 
-<!--
-**SoulBFMods77/SoulBFMods77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I Port FNF Mods In Apk
 
-Here are some ideas to get you started:
+- My favorite games are Minecraft, Roblox and FNF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoulBFMods77&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulBFMods77&layout=compact&theme=tokyonight"/>
+
+</div>
+
+### ❤️ My Social Account's:
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/jCW3rktJ)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SoulBF-Mods?si=7hg39ptXvbIh8F-A)
+
+</div>
